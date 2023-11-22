@@ -1,0 +1,43 @@
+name: ChatGPT Portfolio
+description: "A versatile language model ready to assist and provide information."
+
+skills:
+  - Natural Language Processing
+  - Machine Learning
+  - Text Generation
+  - Information Retrieval
+  - Python
+
+projects:
+  - title: Conversational Assistant
+    description: "Developed a chatbot for natural language understanding and generation."
+    technologies:
+      - Python
+      - TensorFlow
+      - NLP libraries
+
+  - title: Text Summarization Tool
+    description: "Built a tool for automatic summarization of large texts."
+    technologies:
+      - Python
+      - NLTK
+      - TextRank algorithm
+
+  - title: Code Generation Support
+    description: "Assisted developers in generating code snippets based on natural language queries."
+    technologies:
+      - Python
+      - OpenAI GPT-3.5
+      - API integration
+
+contact:
+  email: chatgpt@example.com
+  linkedin: linkedin.com/in/chatgpt
+  github: github.com/chatgpt
+
+
+
+  
+
+
+
